@@ -1,11 +1,11 @@
 {
-    "name": "growchart",
-    "short_name": "growchart",
+    "name": "Magenta",
+    "short_name": "Magenta",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#E243D3",
-    "description": "A new Flutter project.",
+    "description": "Monitoring Status Gizi dan Edukasi Anak Balita",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
